@@ -1,5 +1,7 @@
 # About Me I Am Auel I like to make Cheats for Discord and roblox🐱‍👤
 
+![discord-kitten](https://user-images.githubusercontent.com/117035597/205467882-133781c0-1caf-43bf-86fc-f7c102039b4b.gif)
+
 
 # Languages And Tools I Currently Use C# AND Lua AND OEM 👨‍💻 
 
